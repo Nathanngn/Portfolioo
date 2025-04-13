@@ -21,11 +21,5 @@ export const certifications: Certification[] = [
     logo: "https://upload.wikimedia.org/wikipedia/commons/e/e0/Pix_logo.svg",
     pdfUrl: "/certifications/pix-certification.pdf"
   },
-  {
-    title: "Microsoft Azure Fundamentals",
-    issuer: "Microsoft",
-    date: "2024",
-    logo: "https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png",
-    pdfUrl: "/certifications/azure-fundamentals.pdf"
-  }
+  
 ];

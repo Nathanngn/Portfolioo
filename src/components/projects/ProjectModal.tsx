@@ -12,11 +12,11 @@ interface ProjectModalProps {
 
 export default function ProjectModal({ project, isOpen, onClose }: ProjectModalProps) {
   const epicerieProcedures = [
-    { name: "Mission 1", url: "/procedures/epicerie-installation.pdf" },
-    { name: "Mission 2", url: "/procedures/epicerie-configuration.pdf" },
-    { name: "Mission 5", url: "/procedures/epicerie-utilisation.pdf" },
-    { name: "Mission 6", url: "/procedures/epicerie-maintenance.pdf" },
-    { name: "Mission 7", url: "/procedures/epicerie-sauvegarde.pdf" }
+    { name: "Mission 1", url: "/procedures/20240937_NGu_monEpicerie_Mission_1.pdf" },
+    { name: "Mission 2", url: "/procedures/20240937_NGu_monEpicerie_Mission_2.pdf" },
+    { name: "Mission 5", url: "/procedures/20241041_NGu_monEpicerie_Mission_5.pdf" },
+    { name: "Mission 6", url: "/procedures/20241043_NGu_monEpicerie_Mission_6.pdf" },
+    { name: "Mission 7", url: "/procedures/20241145_NGu_monEpicerie_Mission_7.pdf" }
   ];
 
   if (!isOpen) return null;
