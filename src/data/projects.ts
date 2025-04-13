@@ -26,7 +26,7 @@ export const projects: Project[] = [
     technologies: ["Centreon", "Linux"],
     image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=1200",
     tasks: ["Installation de Centreon"],
-    procedureUrl: "/procedures/centreon.pdf"
+    procedureUrl: "/procedures/Centreon.pdf"
   },
   {
     title: "EASYVISTA",
@@ -34,7 +34,7 @@ export const projects: Project[] = [
     technologies: ["EasyVista", "ITIL"],
     image: "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&q=80&w=1200",
     tasks: ["Configuration d'EasyVista"],
-    procedureUrl: "/procedures/easyvista.pdf"
+    procedureUrl: "/procedures/EasyVista.pdf"
   },
   {
     title: "HAPROXY",
@@ -42,7 +42,7 @@ export const projects: Project[] = [
     technologies: ["HAProxy", "Linux"],
     image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&q=80&w=1200",
     tasks: ["Installation de HAProxy"],
-    procedureUrl: "/procedures/haproxy.pdf"
+    procedureUrl: "/procedures/Haproxy.pdf"
   },
   {
     title: "TRUENAS",
@@ -50,7 +50,7 @@ export const projects: Project[] = [
     technologies: ["TrueNAS"],
     image: "https://images.unsplash.com/photo-1600267175161-cfaa711b4a81?auto=format&fit=crop&q=80&w=1200",
     tasks: ["Configuration de TrueNAS"],
-    procedureUrl: "/procedures/truenas.pdf"
+    procedureUrl: "/procedures/TrueNAS.pdf"
   },
   {
     title: "WORDPRESS DOCKER",
@@ -58,7 +58,7 @@ export const projects: Project[] = [
     technologies: ["Docker", "WordPress"],
     image: "https://images.unsplash.com/photo-1629654297299-c8506221ca97?auto=format&fit=crop&q=80&w=1200",
     tasks: ["Configuration de Docker"],
-    procedureUrl: "/procedures/wordpress-docker.pdf"
+    procedureUrl: "/procedures/Wordpress-docker.pdf"
   },
   {
     title: "VAGRANT",
@@ -66,7 +66,7 @@ export const projects: Project[] = [
     technologies: ["Vagrant", "VMware"],
     image: "https://images.unsplash.com/photo-1629654297299-c8506221ca97?auto=format&fit=crop&q=80&w=1200",
     tasks: ["Configuration de Vagrant"],
-    procedureUrl: "/procedures/vagrant.pdf"
+    procedureUrl: "/procedures/Vagrant.pdf"
   },
   {
     title: "MON EPICERIE",
