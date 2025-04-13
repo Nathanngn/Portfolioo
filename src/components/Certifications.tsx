@@ -15,7 +15,7 @@ export default function Certifications() {
           className="text-white"
         />
         
-        <div className="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto">
+        <div className="grid md:grid-cols-2 gap-8 max-w-3xl mx-auto">
           {certifications.map((cert, index) => (
             <CertificationCard 
               key={cert.title}
